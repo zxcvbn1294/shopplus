@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aladin</item>
+        <item>@font/aldrich</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/bungee_outline</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/caesar_dressing</item>
+        <item>@font/codystar</item>
+        <item>@font/ewert</item>
+        <item>@font/mystery_quest</item>
+        <item>@font/nosifer</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/racing_sans_one</item>
+        <item>@font/ribeye_marrow</item>
+        <item>@font/ruslan_display</item>
+        <item>@font/shojumaru</item>
+        <item>@font/sonsie_one</item>
+    </array>
+</resources>

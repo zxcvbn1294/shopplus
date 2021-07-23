@@ -1,0 +1,2 @@
+rootProject.name = "ShopPlusss"
+include ':app'
